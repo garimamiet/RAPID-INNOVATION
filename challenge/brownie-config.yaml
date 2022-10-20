@@ -1,0 +1,7 @@
+compiler:
+  solc:
+    version: 0.8.0
+
+dotenv: .env
+BSCSCAN_TOKEN: ${BSCSCAN_TOKEN}
+pvt_key: ${pvt_key}

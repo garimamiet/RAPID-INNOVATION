@@ -1,0 +1,31 @@
+{
+  "contracts": {
+    "Token": "b69a912e7b6d54d119be00538f9cc6ad4614fba1",
+    "auctionPlay": "d9998b630952a70f2225d930ae8ce3f9a66a0b01",
+    "auctionRepository": "64cdfea7974d1f0050101176009a55715c5aa005"
+  },
+  "tests": {
+    "tests/test_1.py": {
+      "coverage": false,
+      "isolated": [
+        "Token",
+        "auctionPlay",
+        "auctionRepository"
+      ],
+      "results": ".........",
+      "sha1": "eedecb162075e013fe9f6fbb8b8f5c0c6fecca30",
+      "txhash": [
+        "0a7780c94af4bb9610923f27ceb3c75fa2a8af16",
+        "4d32b93f55654c46e80fc7ccd8e28e05ea575577",
+        "6429a88ed4ac77bc65915324fe4bce4ade86599a",
+        "b1b6430d5f4db51ec00d7c564435d892ed3c1724"
+      ]
+    }
+  },
+  "tx": {
+    "0a7780c94af4bb9610923f27ceb3c75fa2a8af16": {},
+    "4d32b93f55654c46e80fc7ccd8e28e05ea575577": {},
+    "6429a88ed4ac77bc65915324fe4bce4ade86599a": {},
+    "b1b6430d5f4db51ec00d7c564435d892ed3c1724": {}
+  }
+}
